@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=6300000,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1020x780,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=276739&extension=m3u8
+http://nxtplay.xyz:8080/play/live.php?mac=00:1A:79:C0:C9:D7&stream=372568&extension=m3u8
