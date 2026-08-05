@@ -5,5 +5,6 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=9444&deviceMac=00:1A:79:A4:07:6A
-http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=4621&deviceMac=00:1A:79:A4:07:6A
+
+
